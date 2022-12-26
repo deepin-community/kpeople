@@ -78,6 +78,8 @@ libKF5PeopleWidgets.so.5 libkf5peoplewidgets5 #MINVER#
  _ZTVN7KPeople17PersonDetailsViewE@Base 5.69.0
  _ZTVN7KPeople19PersonDetailsDialogE@Base 5.69.0
  _ZTVN7KPeople26AbstractFieldWidgetFactoryE@Base 5.69.0
+ _ZZZN14KPluginFactory17instantiatePluginIN7KPeople20AbstractPersonActionEEENS_6ResultIT_EERK15KPluginMetaDataP7QObjectRK5QListI8QVariantEENKUlvE_clEvE15qstring_literal@Base 5.90.0
+ _ZZZN14KPluginFactory17instantiatePluginIN7KPeople26AbstractFieldWidgetFactoryEEENS_6ResultIT_EERK15KPluginMetaDataP7QObjectRK5QListI8QVariantEENKUlvE_clEvE15qstring_literal@Base 5.90.0
  (c++)"non-virtual thunk to KPeople::MergeDialog::~MergeDialog()@Base" 5.69.0
  (c++)"non-virtual thunk to KPeople::PersonDetailsDialog::~PersonDetailsDialog()@Base" 5.69.0
  (c++)"non-virtual thunk to KPeople::PersonDetailsView::~PersonDetailsView()@Base" 5.69.0

@@ -1,27 +1,28 @@
 cmake_minimum_required(VERSION 3.16)
 
-set(KF_VERSION "5.86.0") # handled by release scripts
-set(KF_DEP_VERSION "5.86.0") # handled by release scripts
+set(KF_VERSION "5.90.0") # handled by release scripts
+set(KF_DEP_VERSION "5.90.0") # handled by release scripts
 project (KPeople VERSION ${KF_VERSION})
 
 include(FeatureSummary)
-find_package(ECM 5.86.0  NO_MODULE)
+find_package(ECM 5.90.0  NO_MODULE)
 set_package_properties(ECM PROPERTIES TYPE REQUIRED DESCRIPTION "Extra CMake Modules." URL "https://commits.kde.org/extra-cmake-modules")
 feature_summary(WHAT REQUIRED_PACKAGES_NOT_FOUND FATAL_ON_MISSING_REQUIRED_PACKAGES)
 
 set(CMAKE_MODULE_PATH ${ECM_MODULE_PATH})
 
 set(REQUIRED_QT_VERSION 5.15.2)
+include(KDEInstallDirs)
 
-find_package(Qt5 ${REQUIRED_QT_VERSION} CONFIG REQUIRED Gui Sql Widgets Qml)
+find_package(Qt${QT_MAJOR_VERSION} ${REQUIRED_QT_VERSION} CONFIG REQUIRED Gui Sql Widgets Qml)
 
 # On non-Apple UNIX DBus integration is required, on Android it does not exist and on other platforms it is optional
 if(UNIX AND NOT APPLE)
     if(NOT ANDROID)
-        find_package(Qt5 ${REQUIRED_QT_VERSION} CONFIG REQUIRED DBus)
+        find_package(Qt${QT_MAJOR_VERSION} ${REQUIRED_QT_VERSION} CONFIG REQUIRED DBus)
     endif()
 else()
-    find_package(Qt5 ${REQUIRED_QT_VERSION} OPTIONAL_COMPONENTS DBus)
+    find_package(Qt${QT_MAJOR_VERSION} ${REQUIRED_QT_VERSION} OPTIONAL_COMPONENTS DBus)
 endif()
 
 find_package(KF5CoreAddons ${KF_DEP_VERSION} CONFIG REQUIRED)
@@ -29,7 +30,6 @@ find_package(KF5WidgetsAddons ${KF_DEP_VERSION} CONFIG REQUIRED)
 find_package(KF5I18n ${KF_DEP_VERSION} CONFIG REQUIRED)
 find_package(KF5ItemViews ${KF_DEP_VERSION} CONFIG REQUIRED)
 
-include(KDEInstallDirs)
 include(KDECMakeSettings)
 include(KDEGitCommitHooks)
 include(KDEFrameworkCompilerSettings NO_POLICY_SCOPE)
@@ -60,10 +60,7 @@ option(ENABLE_EXAMPLES "Build the examples" "ON")
 
 ki18n_install(po)
 add_definitions(-DQT_DISABLE_DEPRECATED_BEFORE=0x050f02)
-add_definitions(-DKF_DISABLE_DEPRECATED_BEFORE_AND_AT=0x055100)
-add_definitions(-DKSERVICE_DISABLE_DEPRECATED_BEFORE_AND_AT=0x04ff00)
-# TODO: PersonDetailsView(QWidget *) constructor still calls KPluginInfo::fromServices() (deprecated at 5.0)
-# investigate if needed
+add_definitions(-DKF_DISABLE_DEPRECATED_BEFORE_AND_AT=0x055900)
 add_subdirectory (src)
 if (ENABLE_EXAMPLES)
   add_subdirectory(examples)

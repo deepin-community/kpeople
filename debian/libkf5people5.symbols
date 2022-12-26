@@ -132,3 +132,4 @@ libKF5People.so.5 libkf5people5 #MINVER#
  _ZTVN7KPeople13MatchesSolverE@Base 5.69.0
  _ZTVN7KPeople16DuplicatesFinderE@Base 5.69.0
  _ZTVN7KPeople27PersonsSortFilterProxyModelE@Base 5.69.0
+ _ZZZN14KPluginFactory17instantiatePluginIN7KPeople21BasePersonsDataSourceEEENS_6ResultIT_EERK15KPluginMetaDataP7QObjectRK5QListI8QVariantEENKUlvE_clEvE15qstring_literal@Base 5.90.0
