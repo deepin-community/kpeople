@@ -62,3 +62,13 @@ msgstr "Тамосҳоеро барои муттаҳидшавӣ интихоб 
 #, kde-format
 msgid "Avatar"
 msgstr "Таҷассум"
+
+#~ msgid "Show Merge Suggestions..."
+#~ msgstr "Нишон додани пешниҳодҳои муттаҳидшавӣ..."
+
+#~ msgid "Merge with Selected Contacts"
+#~ msgstr "Муттаҳидшавӣ бо тамосҳои интихобшуда"
+
+#~ msgctxt "Phone details title"
+#~ msgid "Phone"
+#~ msgstr "Телефон"

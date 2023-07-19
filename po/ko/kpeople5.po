@@ -62,3 +62,13 @@ msgstr "합칠 연락처 선택"
 #, kde-format
 msgid "Avatar"
 msgstr "아바타"
+
+#~ msgid "Show Merge Suggestions..."
+#~ msgstr "제안하는 합칠 항목 보기..."
+
+#~ msgid "Merge with Selected Contacts"
+#~ msgstr "선택한 연락처와 합치기"
+
+#~ msgctxt "Phone details title"
+#~ msgid "Phone"
+#~ msgstr "전화"

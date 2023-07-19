@@ -63,3 +63,21 @@ msgstr "Alegeți contactele de îmbinat"
 #, kde-format
 msgid "Avatar"
 msgstr "Avatar"
+
+#~ msgid "Show Merge Suggestions..."
+#~ msgstr "Arată sugestii de îmbinare..."
+
+#~ msgid "Merge with Selected Contacts"
+#~ msgstr "Îmbină cu contactele alese"
+
+#~ msgctxt "Phone details title"
+#~ msgid "Phone"
+#~ msgstr "Telefon"
+
+#, fuzzy
+#~| msgid "Email"
+#~ msgid "No Emails"
+#~ msgstr "Email"
+
+#~ msgid "Email"
+#~ msgstr "Email"

@@ -64,3 +64,34 @@ msgstr "Izberite stike za združevanje"
 #, kde-format
 msgid "Avatar"
 msgstr "Podoba"
+
+#~ msgid "Show Merge Suggestions..."
+#~ msgstr "Pokaži predloge združevanja ..."
+
+#~ msgid "Merge with Selected Contacts"
+#~ msgstr "Združi z izbranimi stiki"
+
+#~ msgctxt "Phone details title"
+#~ msgid "Phone"
+#~ msgstr "Telefon"
+
+#~ msgid "No Subject"
+#~ msgstr "Brez zadeve"
+
+#~ msgid "Subject: "
+#~ msgstr "Zadeva: "
+
+#~ msgid "No Emails"
+#~ msgstr "Ni e-pošte"
+
+#, fuzzy
+#~| msgid "Mails"
+#~ msgctxt "Emails field label"
+#~ msgid "Mails"
+#~ msgstr "Pošta"
+
+#~ msgid "Email"
+#~ msgstr "E-pošta"
+
+#~ msgid "SweetPeople - KPeople Example"
+#~ msgstr "Primer za KPeople - SweetPeople"

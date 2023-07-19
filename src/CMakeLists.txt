@@ -65,7 +65,7 @@ endif (MSVC)
 # Install:
 install (TARGETS KF5People
          EXPORT KPeopleTargets
-         ${KF5_INSTALL_TARGETS_DEFAULT_ARGS}
+         ${KF_INSTALL_TARGETS_DEFAULT_ARGS}
 )
 
 ecm_generate_headers(KPeople_CamelCase_HEADERS
@@ -123,13 +123,6 @@ if(BUILD_QCH)
         COMPONENT Devel
     )
 endif()
-
-install (FILES
-         kpeople_data_source.desktop
-         kpeople_plugin.desktop
-         DESTINATION
-         ${KDE_INSTALL_KSERVICETYPESDIR}
-)
 
 ecm_qt_install_logging_categories(
     EXPORT KPEOPLE

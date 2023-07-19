@@ -64,3 +64,26 @@ msgstr "Selecione os contatos a serem mesclados"
 #, kde-format
 msgid "Avatar"
 msgstr "Imagem"
+
+#~ msgid "Show Merge Suggestions..."
+#~ msgstr "Mostrar sugestões de mesclagem..."
+
+#~ msgid "Merge with Selected Contacts"
+#~ msgstr "Mesclar os contatos selecionados"
+
+#~ msgctxt "Phone details title"
+#~ msgid "Phone"
+#~ msgstr "Telefone"
+
+#~ msgid "No Subject"
+#~ msgstr "Sem assunto"
+
+#~ msgid "Subject: "
+#~ msgstr "Assunto: "
+
+#~ msgid "No Emails"
+#~ msgstr "Sem e-mails"
+
+#~ msgctxt "Emails field label"
+#~ msgid "Mails"
+#~ msgstr "Mensagens"

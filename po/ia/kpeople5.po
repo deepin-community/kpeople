@@ -62,3 +62,13 @@ msgstr "Selige contactos que on debe fusionar"
 #, kde-format
 msgid "Avatar"
 msgstr "Avatar"
+
+#~ msgid "Show Merge Suggestions..."
+#~ msgstr "Monstra suggerentias de fusion...."
+
+#~ msgid "Merge with Selected Contacts"
+#~ msgstr "Fusiona con contactos seligite"
+
+#~ msgctxt "Phone details title"
+#~ msgid "Phone"
+#~ msgstr "Telephono"

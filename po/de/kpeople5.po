@@ -58,3 +58,44 @@ msgstr "Kontakte zum Zusammenführen auswählen"
 #, kde-format
 msgid "Avatar"
 msgstr "Avatar"
+
+#~ msgid "Show Merge Suggestions..."
+#~ msgstr "Zusammenführungs-Vorschläge anzeigen ..."
+
+#~ msgid "Merge with Selected Contacts"
+#~ msgstr "Mit ausgewählte Kontakten zusammenführen"
+
+#~ msgctxt "Phone details title"
+#~ msgid "Phone"
+#~ msgstr "Telefon"
+
+#~ msgid "No Subject"
+#~ msgstr "Kein Betreff"
+
+#~ msgid "Subject: "
+#~ msgstr "Betreff: "
+
+#~ msgid "No Emails"
+#~ msgstr "Keine E-Mails"
+
+#, fuzzy
+#~| msgid "Mails"
+#~ msgctxt "Emails field label"
+#~ msgid "Mails"
+#~ msgstr "E-Mails"
+
+#~ msgid "Email"
+#~ msgstr "E-Mail"
+
+#~ msgid "SweetPeople - KPeople Example"
+#~ msgstr "Nette Leute - Beispiel für KPeople"
+
+#~ msgid "Form"
+#~ msgstr "Formular"
+
+#~ msgid "Unknown contact"
+#~ msgstr "Unbekannter Kontakt"
+
+#~ msgctxt "%1 is a specific email address"
+#~ msgid "Email %1"
+#~ msgstr "E-Mail %1"

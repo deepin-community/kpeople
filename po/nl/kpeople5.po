@@ -62,3 +62,42 @@ msgstr "Samen te voegen contactpersonen selecteren"
 #, kde-format
 msgid "Avatar"
 msgstr "Avatar"
+
+#~ msgid "Show Merge Suggestions..."
+#~ msgstr "Suggesties voor samenvoegen tonen..."
+
+#~ msgid "Merge with Selected Contacts"
+#~ msgstr "Met geselecteerde contactpersonen samenvoegen"
+
+#~ msgctxt "Phone details title"
+#~ msgid "Phone"
+#~ msgstr "Telefoon"
+
+#~ msgid "No Subject"
+#~ msgstr "Geen onderwerp"
+
+#~ msgid "Subject: "
+#~ msgstr "Onderwerp: "
+
+#~ msgid "No Emails"
+#~ msgstr "Geen e-mailberichten"
+
+#~ msgctxt "Emails field label"
+#~ msgid "Mails"
+#~ msgstr "E-mailberichten"
+
+#~ msgid "Email"
+#~ msgstr "E-mail"
+
+#~ msgid "SweetPeople - KPeople Example"
+#~ msgstr "SweetPeople - KPeople voorbeeld"
+
+#~ msgid "Form"
+#~ msgstr "Formulier"
+
+#~ msgid "Unknown contact"
+#~ msgstr "Onbekende contactpersoon"
+
+#~ msgctxt "%1 is a specific email address"
+#~ msgid "Email %1"
+#~ msgstr "E-mail %1"

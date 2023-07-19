@@ -65,3 +65,42 @@ msgstr "Виберіть записи контактів, які слід об�
 #, kde-format
 msgid "Avatar"
 msgstr "Аватар"
+
+#~ msgid "Show Merge Suggestions..."
+#~ msgstr "Показати пропозиції щодо об’єднання…"
+
+#~ msgid "Merge with Selected Contacts"
+#~ msgstr "Об’єднати з позначеними записами контактів"
+
+#~ msgctxt "Phone details title"
+#~ msgid "Phone"
+#~ msgstr "Телефон"
+
+#~ msgid "No Subject"
+#~ msgstr "Без теми"
+
+#~ msgid "Subject: "
+#~ msgstr "Тема: "
+
+#~ msgid "No Emails"
+#~ msgstr "Немає повідомлень"
+
+#~ msgctxt "Emails field label"
+#~ msgid "Mails"
+#~ msgstr "Пошта"
+
+#~ msgid "Email"
+#~ msgstr "Електронна пошта"
+
+#~ msgid "SweetPeople - KPeople Example"
+#~ msgstr "SweetPeople — приклад KPeople"
+
+#~ msgid "Form"
+#~ msgstr "Форма"
+
+#~ msgid "Unknown contact"
+#~ msgstr "Невідомий контакт"
+
+#~ msgctxt "%1 is a specific email address"
+#~ msgid "Email %1"
+#~ msgstr "Надіслати за адресою %1"
