@@ -63,3 +63,13 @@ msgstr "حدّد المتراسلين الذي تريد دمجهم"
 #, kde-format
 msgid "Avatar"
 msgstr "الشعار"
+
+#~ msgid "Show Merge Suggestions..."
+#~ msgstr "اعرض اقتراحات الدمج…"
+
+#~ msgid "Merge with Selected Contacts"
+#~ msgstr "ادمج بالمتراسلين المحدّدين"
+
+#~ msgctxt "Phone details title"
+#~ msgid "Phone"
+#~ msgstr "الهاتف"

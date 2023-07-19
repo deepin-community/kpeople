@@ -63,3 +63,24 @@ msgstr "Выберите учётные записи для объединени
 #, kde-format
 msgid "Avatar"
 msgstr "Аватар"
+
+#~ msgid "Show Merge Suggestions..."
+#~ msgstr "Показать вероятные дубликаты..."
+
+#~ msgid "Merge with Selected Contacts"
+#~ msgstr "Объединить с выбранными контактами"
+
+#~ msgctxt "Phone details title"
+#~ msgid "Phone"
+#~ msgstr "Телефон"
+
+#, fuzzy
+#~| msgid "Email"
+#~ msgid "No Emails"
+#~ msgstr "Адрес электронной почты"
+
+#~ msgid "Email"
+#~ msgstr "Адрес электронной почты"
+
+#~ msgid "SweetPeople - KPeople Example"
+#~ msgstr "SweetPeople — Пример использования KPeople"

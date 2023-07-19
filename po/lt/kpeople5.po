@@ -65,3 +65,31 @@ msgstr "Pasirinkite adresatus, kuriuos sulieti"
 #, kde-format
 msgid "Avatar"
 msgstr "Avataras"
+
+#~ msgid "Show Merge Suggestions..."
+#~ msgstr "Rodyti suliejimo pasiūlymus..."
+
+#~ msgid "Merge with Selected Contacts"
+#~ msgstr "Sulieti su pažymėtais adresatais"
+
+#~ msgctxt "Phone details title"
+#~ msgid "Phone"
+#~ msgstr "Telefonas"
+
+#~ msgid "No Subject"
+#~ msgstr "Nėra temos"
+
+#~ msgid "Subject: "
+#~ msgstr "Tema: "
+
+#~ msgid "No Emails"
+#~ msgstr "Nėra el. laiškų"
+
+#, fuzzy
+#~| msgid "Mails"
+#~ msgctxt "Emails field label"
+#~ msgid "Mails"
+#~ msgstr "Laiškai"
+
+#~ msgid "Email"
+#~ msgstr "El. paštas"

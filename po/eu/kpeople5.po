@@ -65,3 +65,13 @@ msgstr "Hautatu bateratu beharreko kontaktutak"
 #, kde-format
 msgid "Avatar"
 msgstr "Avatara"
+
+#~ msgid "Show Merge Suggestions..."
+#~ msgstr "Erakutsi bateratzeko iradokizunak..."
+
+#~ msgid "Merge with Selected Contacts"
+#~ msgstr "Bateratu hautatutako kontaktuekin"
+
+#~ msgctxt "Phone details title"
+#~ msgid "Phone"
+#~ msgstr "Telefonoa"

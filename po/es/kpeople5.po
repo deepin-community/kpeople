@@ -62,3 +62,34 @@ msgstr "Seleccione los contactos a fusionar"
 #, kde-format
 msgid "Avatar"
 msgstr "Avatar"
+
+#~ msgid "Show Merge Suggestions..."
+#~ msgstr "Mostrar las sugerencias de fusión..."
+
+#~ msgid "Merge with Selected Contacts"
+#~ msgstr "Fusionar con los contactos seleccionados"
+
+#~ msgctxt "Phone details title"
+#~ msgid "Phone"
+#~ msgstr "Teléfono"
+
+#~ msgid "No Subject"
+#~ msgstr "Sin asunto"
+
+#~ msgid "Subject: "
+#~ msgstr "Asunto: "
+
+#~ msgid "No Emails"
+#~ msgstr "Ningún correo electrónico"
+
+#, fuzzy
+#~| msgid "Mails"
+#~ msgctxt "Emails field label"
+#~ msgid "Mails"
+#~ msgstr "Correos electrónicos"
+
+#~ msgid "Email"
+#~ msgstr "Correo electrónico"
+
+#~ msgid "SweetPeople - KPeople Example"
+#~ msgstr "SweetPeople - Ejemplo de KPeople"

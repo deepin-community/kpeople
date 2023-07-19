@@ -63,3 +63,13 @@ msgstr "בחר איש קשר למיזוג"
 #, kde-format
 msgid "Avatar"
 msgstr "תמונה"
+
+#~ msgid "Show Merge Suggestions..."
+#~ msgstr "הראה הצעות למיזוג"
+
+#~ msgid "Merge with Selected Contacts"
+#~ msgstr "מזג עם האנשי קשר הנבחרים"
+
+#~ msgctxt "Phone details title"
+#~ msgid "Phone"
+#~ msgstr "פלאפון"

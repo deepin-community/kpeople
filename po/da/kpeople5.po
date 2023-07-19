@@ -62,3 +62,41 @@ msgstr "Vælg kontakter der skal flettes"
 #, kde-format
 msgid "Avatar"
 msgstr "Avatar"
+
+#~ msgid "Show Merge Suggestions..."
+#~ msgstr "Vis fletteforslag..."
+
+#~ msgid "Merge with Selected Contacts"
+#~ msgstr "Flet med valgte kontakter"
+
+#~ msgctxt "Phone details title"
+#~ msgid "Phone"
+#~ msgstr "Telefon"
+
+#~ msgid "No Subject"
+#~ msgstr "Intet emne"
+
+#~ msgid "Subject: "
+#~ msgstr "Emne: "
+
+#~ msgid "No Emails"
+#~ msgstr "Ingen e-mails"
+
+#, fuzzy
+#~| msgid "Mails"
+#~ msgctxt "Emails field label"
+#~ msgid "Mails"
+#~ msgstr "E-mails"
+
+#~ msgid "Email"
+#~ msgstr "E-mail"
+
+#~ msgid "SweetPeople - KPeople Example"
+#~ msgstr "SweetPeople - KPeople eksempel"
+
+#~ msgid "Unknown contact"
+#~ msgstr "Ukendt kontakt"
+
+#~ msgctxt "%1 is a specific email address"
+#~ msgid "Email %1"
+#~ msgstr "E-mail %1"

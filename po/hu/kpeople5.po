@@ -63,3 +63,41 @@ msgstr "Válassza ki az egyesítendő névjegyeket"
 #, kde-format
 msgid "Avatar"
 msgstr "Avatar"
+
+#~ msgid "Show Merge Suggestions..."
+#~ msgstr "Egyesítési javaslatok megjelenítése…"
+
+#~ msgid "Merge with Selected Contacts"
+#~ msgstr "Egyesítés a kijelölt névjegyekkel"
+
+#~ msgctxt "Phone details title"
+#~ msgid "Phone"
+#~ msgstr "Telefon"
+
+#~ msgid "No Subject"
+#~ msgstr "Nincs tárgy"
+
+#~ msgid "Subject: "
+#~ msgstr "Tárgy: "
+
+#~ msgid "No Emails"
+#~ msgstr "Nincsenek e-mailek"
+
+#, fuzzy
+#~| msgid "Mails"
+#~ msgctxt "Emails field label"
+#~ msgid "Mails"
+#~ msgstr "Levelek"
+
+#~ msgid "Email"
+#~ msgstr "E-mail"
+
+#~ msgid "SweetPeople - KPeople Example"
+#~ msgstr "Kedves emberek - KPeople példa"
+
+#~ msgid "Unknown contact"
+#~ msgstr "Ismeretlen partner"
+
+#~ msgctxt "%1 is a specific email address"
+#~ msgid "Email %1"
+#~ msgstr "E-mail %1"

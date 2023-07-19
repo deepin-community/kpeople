@@ -63,3 +63,34 @@ msgstr "Wybierz kontakty do scalenia"
 #, kde-format
 msgid "Avatar"
 msgstr "Awatar"
+
+#~ msgid "Show Merge Suggestions..."
+#~ msgstr "Pokaż sugestie scalania..."
+
+#~ msgid "Merge with Selected Contacts"
+#~ msgstr "Scal z wybranymi kontaktami"
+
+#~ msgctxt "Phone details title"
+#~ msgid "Phone"
+#~ msgstr "Telefon"
+
+#~ msgid "No Subject"
+#~ msgstr "Brak tematu"
+
+#~ msgid "Subject: "
+#~ msgstr "Temat"
+
+#~ msgid "No Emails"
+#~ msgstr "Brak poczty"
+
+#, fuzzy
+#~| msgid "Mails"
+#~ msgctxt "Emails field label"
+#~ msgid "Mails"
+#~ msgstr "Wiadomości"
+
+#~ msgid "Email"
+#~ msgstr "E-mail"
+
+#~ msgid "SweetPeople - KPeople Example"
+#~ msgstr "SweetPeople - Przykład KPeople"

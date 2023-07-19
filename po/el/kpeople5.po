@@ -63,3 +63,24 @@ msgstr "Επιλέξτε επαφές για συγχώνευση"
 #, kde-format
 msgid "Avatar"
 msgstr "Εικόνα"
+
+#~ msgid "Show Merge Suggestions..."
+#~ msgstr "Εμφάνιση προτάσεων για συγχώνευση..."
+
+#~ msgid "Merge with Selected Contacts"
+#~ msgstr "Συγχώνευση με επιλεγμένες επαφές"
+
+#~ msgctxt "Phone details title"
+#~ msgid "Phone"
+#~ msgstr "Τηλέφωνο"
+
+#, fuzzy
+#~| msgid "Email"
+#~ msgid "No Emails"
+#~ msgstr "Email"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "SweetPeople - KPeople Example"
+#~ msgstr "SweetPeople - Παράδειγμα KPeople"

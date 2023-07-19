@@ -62,3 +62,32 @@ msgstr "Valitse yhdistettävät yhteystiedot"
 #, kde-format
 msgid "Avatar"
 msgstr "Avatar"
+
+#~ msgid "Show Merge Suggestions..."
+#~ msgstr "Näytä yhdistämisehdotukset…"
+
+#~ msgid "Merge with Selected Contacts"
+#~ msgstr "Yhdistä valitut yhteystiedot"
+
+#~ msgctxt "Phone details title"
+#~ msgid "Phone"
+#~ msgstr "Puhelin"
+
+#~ msgid "No Subject"
+#~ msgstr "Ei aihetta"
+
+#~ msgid "Subject: "
+#~ msgstr "Aihe: "
+
+#~ msgid "No Emails"
+#~ msgstr "Ei sähköpostia"
+
+#~ msgctxt "Emails field label"
+#~ msgid "Mails"
+#~ msgstr "Sähköpostit"
+
+#~ msgid "Email"
+#~ msgstr "Sähköposti"
+
+#~ msgid "SweetPeople - KPeople Example"
+#~ msgstr "SweetPeople – KPeople-esimerkki"

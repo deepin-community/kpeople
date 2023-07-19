@@ -59,3 +59,26 @@ msgstr "Seleccionar os contactos a reunir"
 #, kde-format
 msgid "Avatar"
 msgstr "Avatar"
+
+#~ msgid "Show Merge Suggestions..."
+#~ msgstr "Mostrar as Sugestões de Reunião..."
+
+#~ msgid "Merge with Selected Contacts"
+#~ msgstr "Reunir com os Contactos Seleccionados"
+
+#~ msgctxt "Phone details title"
+#~ msgid "Phone"
+#~ msgstr "Telefone"
+
+#~ msgid "No Subject"
+#~ msgstr "Sem Assunto"
+
+#~ msgid "Subject: "
+#~ msgstr "Assunto: "
+
+#~ msgid "No Emails"
+#~ msgstr "Sem E-Mails"
+
+#~ msgctxt "Emails field label"
+#~ msgid "Mails"
+#~ msgstr "E-Mails"

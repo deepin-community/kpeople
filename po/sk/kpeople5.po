@@ -60,3 +60,34 @@ msgstr "Vyberte kontakty na zlúčenie"
 #, kde-format
 msgid "Avatar"
 msgstr "Avatar"
+
+#~ msgid "Show Merge Suggestions..."
+#~ msgstr "Zobraziť návrhy zlúčení..."
+
+#~ msgid "Merge with Selected Contacts"
+#~ msgstr "Zlúčiť s vybranými kontaktmi"
+
+#~ msgctxt "Phone details title"
+#~ msgid "Phone"
+#~ msgstr "Telefón"
+
+#~ msgid "No Subject"
+#~ msgstr "Bez predmetu"
+
+#~ msgid "Subject: "
+#~ msgstr "Predmet: "
+
+#~ msgid "No Emails"
+#~ msgstr "Žiadne e-maily"
+
+#, fuzzy
+#~| msgid "Mails"
+#~ msgctxt "Emails field label"
+#~ msgid "Mails"
+#~ msgstr "Maily"
+
+#~ msgid "Email"
+#~ msgstr "E-mail"
+
+#~ msgid "SweetPeople - KPeople Example"
+#~ msgstr "SweetPeople - Príklad KPeople"

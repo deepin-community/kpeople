@@ -65,3 +65,36 @@ msgstr "Označava kontakte koji se trebaju povezati"
 #, kde-format
 msgid "Avatar"
 msgstr "Avatar"
+
+#~ msgid "Show Merge Suggestions..."
+#~ msgstr "Prikaži prijedloge povezivanja..."
+
+#~ msgid "Merge with Selected Contacts"
+#~ msgstr "Poveži sa označenim kontaktima"
+
+#, fuzzy
+#~| msgid "Phone"
+#~ msgctxt "Phone details title"
+#~ msgid "Phone"
+#~ msgstr "Telefon"
+
+#~ msgid "No Subject"
+#~ msgstr "Bez naslova"
+
+#~ msgid "Subject: "
+#~ msgstr "Predmet: "
+
+#~ msgid "No Emails"
+#~ msgstr "Nema e-pošte"
+
+#, fuzzy
+#~| msgid "Mails"
+#~ msgctxt "Emails field label"
+#~ msgid "Mails"
+#~ msgstr "Pošta"
+
+#~ msgid "Email"
+#~ msgstr "E-pošta"
+
+#~ msgid "SweetPeople - KPeople Example"
+#~ msgstr "SweetPeople - KPeople primjer"

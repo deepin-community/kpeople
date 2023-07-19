@@ -64,3 +64,13 @@ msgstr "Tagh an luchd-aithne airson co-aonadh"
 #, kde-format
 msgid "Avatar"
 msgstr "Avatar"
+
+#~ msgid "Show Merge Suggestions..."
+#~ msgstr "Seall molaidhean co-aonaidh..."
+
+#~ msgid "Merge with Selected Contacts"
+#~ msgstr "Co-aonaich leis an luchd-aithne a chaidh a thaghadh"
+
+#~ msgctxt "Phone details title"
+#~ msgid "Phone"
+#~ msgstr "Fòn"

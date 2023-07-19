@@ -62,3 +62,42 @@ msgstr "Välj kontakter att sammanfoga"
 #, kde-format
 msgid "Avatar"
 msgstr "Avatar"
+
+#~ msgid "Show Merge Suggestions..."
+#~ msgstr "Visa förslag på sammanfogning..."
+
+#~ msgid "Merge with Selected Contacts"
+#~ msgstr "Sammanfoga med markerade kontakter"
+
+#~ msgctxt "Phone details title"
+#~ msgid "Phone"
+#~ msgstr "Telefon"
+
+#~ msgid "No Subject"
+#~ msgstr "Ingen rubrik"
+
+#~ msgid "Subject: "
+#~ msgstr "Rubrik: "
+
+#~ msgid "No Emails"
+#~ msgstr "Ingen e-post"
+
+#~ msgctxt "Emails field label"
+#~ msgid "Mails"
+#~ msgstr "Brev"
+
+#~ msgid "Email"
+#~ msgstr "E-post"
+
+#~ msgid "SweetPeople - KPeople Example"
+#~ msgstr "Kpeople-exempel: Trevligt folk"
+
+#~ msgid "Form"
+#~ msgstr "Formulär"
+
+#~ msgid "Unknown contact"
+#~ msgstr "Okänd kontakt"
+
+#~ msgctxt "%1 is a specific email address"
+#~ msgid "Email %1"
+#~ msgstr "Skicka e-post till %1"

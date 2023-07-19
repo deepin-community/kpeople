@@ -61,3 +61,13 @@ msgstr "Pilih kontak untuk digabungkan"
 #, kde-format
 msgid "Avatar"
 msgstr "Avatar"
+
+#~ msgid "Show Merge Suggestions..."
+#~ msgstr "Tampilkan Saran Gabung..."
+
+#~ msgid "Merge with Selected Contacts"
+#~ msgstr "Gabungkan dengan Kontak Terpilih"
+
+#~ msgctxt "Phone details title"
+#~ msgid "Phone"
+#~ msgstr "Phone"

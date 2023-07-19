@@ -62,3 +62,13 @@ msgstr "Ühendatavate kontaktide valimine"
 #, kde-format
 msgid "Avatar"
 msgstr "Avatar"
+
+#~ msgid "Show Merge Suggestions..."
+#~ msgstr "Näita ühendamissoovitusi ..."
+
+#~ msgid "Merge with Selected Contacts"
+#~ msgstr "Ühenda valitud kontaktidega"
+
+#~ msgctxt "Phone details title"
+#~ msgid "Phone"
+#~ msgstr "Telefon"
